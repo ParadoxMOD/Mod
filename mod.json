@@ -1,0 +1,10 @@
+{
+ "name": "ores-evolution",
+ "displayName": "[green]Ore's [green]Evolution",
+ "author": "ParadoxMOD",
+ "description": "Added new tons of game content!",
+ "version": "0.6-early-access",
+
+ "minGameVersion": "104.10",
+ "dependencies": []
+}
