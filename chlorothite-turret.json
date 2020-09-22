@@ -1,0 +1,29 @@
+{
+ "type": "ChargeTurret",
+ "name": "Son of Plantera",
+ "description": "Turret from chlorothite",
+ "health": "750",
+ "size": "2",
+ "reload": "1",
+ "range": "150",
+ "chargeTime": "2",
+ "chargeMaxDelay": "0",
+ "cooldown": "4",
+ "recoil": "1",
+ "powerUse": "45"
+ "shootShake": "0
+ "shootEffect": "explosion",
+ "smokeEffect": "steam",
+ "chargeEffect": "melting",
+  "chargeBeginEffect": "steam",
+ "shootType": "lancerLaser"
+ "inaccuracy": "0",
+ "rotatespeed": "3",
+ "requirements": [
+   { "item": "chlorothite", "amount": 150}
+   { "item": "titanium", "amount": 500}
+ ],
+ "category": "turret"
+ "shootSound": "laser"
+ "research": "duo"
+}

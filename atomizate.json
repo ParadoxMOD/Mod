@@ -1,0 +1,11 @@
+{
+    "type": "material",
+	"name": "Atomizate",
+	"descpription": "[white]Radiaton Resourses",
+	"color": "54BD4E",
+	"explosiveness": 0.25f,
+	"flammability": 0f,
+	"radioactivity": 1f
+	"hardness": 5,
+	"cost": 1f,
+	"alwaysUnlocked": false

@@ -1,0 +1,11 @@
+{			 
+       "speed": 3.5,			 
+       "damage": 40,			 
+       "bulletWidth": 3,			 
+       "bulletHeight": 5,			 
+       "shootEffect": "shootSmall",
+       "smokeEffect": "shootSmallSmoke",
+       "ammoMultiplier": 1.0,
+       "splashDamageRadius": 5,
+       "splashDamage":10
+}

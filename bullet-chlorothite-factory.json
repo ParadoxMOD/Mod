@@ -1,0 +1,30 @@
+{
+  "type": "GenericCrafter",
+  "name": "Chlorothite Bullet Crafter",
+  "description": "Convert chlorothite to bullets",
+  "health": 250,
+  "size": 2,
+  "requirements": [
+    { "item": "chlorothite", "amount": 50}
+	{ "item": "titanium", "amount": 450}
+	{ "item": "coal", "amount": 25}
+  ],
+  "research": "plastanium-compressor",
+  "hasPower": true,
+  "hasItems": true,
+  "hasLiquids": false,
+  "craftTime": 10,
+  "consumes": {
+    "power": 3,
+    "items": {
+      "items": [
+        { "item": "chlorothite", "amount": 3}
+      ]
+    }
+  },
+  "updateEffect": "ripple",
+  "category": "crafting",
+  "idleSoundVolume": 0.5,
+  "itemCapacity": 9,
+  "outputItem": { "item": "chlorothite-bullet", "amount": 1}
+}

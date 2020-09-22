@@ -1,0 +1,14 @@
+{
+ "type": "Conveyor",
+ "name": "Chlorothite-conveyor", 
+ "description": "Conveyor from Chlorothite",
+ "health": 150, 
+ "requirements": [
+  {"item": "chlorothite", "amount": 10}
+  {"item": "titanium", "amount": 30}
+  {"item": "silicon", "amount": 10}
+ ],
+ "speed": 0.2,
+ "research": "titanium-conveyor",
+ "category": "distribution"
+}

@@ -1,0 +1,14 @@
+{
+ "name": "Chlorothite Wall",
+ "description": "Wall from Chlorothite",
+ "type": "Wall",
+ "health": 650,
+ "size": 1,
+ "requirements": [
+  { "item": "titanium", "amount": 50 }
+  { "item": "chlorothite", "amount": 25 }
+  { "item": "lead", "amount": 1500 }
+ ],
+ "category": "defense",
+ "research": "titanium-wall"
+}

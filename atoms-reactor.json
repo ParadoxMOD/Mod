@@ -1,0 +1,30 @@
+{
+  "type": "GenericCrafter",
+  "name": "Atoms Reactor",
+  "description": "Convert some resourses to Atomizate",
+  "health": 600,
+  "size": 4,
+  "requirements": [
+    { "item": "chlorothite", "amount": 500}
+	{ "item": "titanium", "amount": 1000}
+  ],
+  "research": "plastanium-compressor",
+  "hasPower": true,
+  "hasItems": true,
+  "hasLiquids": false,
+  "craftTime": 20,
+  "consumes": {
+    "power": 5,
+    "items": {
+      "items": [
+        { "item": "titanium", "amount": 15}
+		{ "item": "chlorothite", "amount": 50}
+      ]
+    }
+  },
+  "updateEffect": "ripple",
+  "category": "crafting",
+  "idleSoundVolume": 0.5,
+  "itemCapacity": 65,
+  "outputItem": { "item": "atomizate", "amount": 1}
+}
